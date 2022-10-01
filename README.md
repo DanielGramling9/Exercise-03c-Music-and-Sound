@@ -211,5 +211,5 @@ Adding a face, Shaders, Powerups, etc.
 
 ## Created by 
 
-Jason Francis
+Daniel Gramling
 ```
